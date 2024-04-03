@@ -25,15 +25,8 @@
 ```
 DataAnalysis_CapstoneDesign
 ├── Main
-│   ├── ckpt
 │   ├── MainProgram.py
 │   └── utils.py
-├── Practice
-├── Reports
-├── Works
-│   ├── post.html
-│   └── user.html # user 창
-├── ckpt
 ├── image
 └── README.md
 ```
