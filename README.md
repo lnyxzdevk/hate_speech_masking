@@ -2,7 +2,7 @@
 ## TOXIC sentence masking
 
 ### Author
- * Cho Moon Gi [@siryuon](https://github.com/siryuon)
+ * Cho Moon Gi [@lnyxzdevk](https://github.com/lnyxzdevk)
 
 ### Used data
  * https://github.com/kocohub/korean-hate-speech: labeled data, unlabeled data
